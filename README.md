@@ -1,7 +1,7 @@
 # Francis C – Portfolio Project
 ## About Me
 
-Hi, I'm Francis C, a passionate and curious student developer exploring the world of web development and software engineering. I'm always excited to learn new technologies, build creative projects, and improve my coding skills through hands-on experience.
+Hi, I'm Francis Constantino, a passionate and curious student developer exploring the world of web development and software engineering. I'm always excited to learn new technologies, build creative projects, and improve my coding skills through hands-on experience.
 
 ## About this Project: 
 This portfolio project is the culmination of my learning and growth over the past year. Through this journey, I’ve gained a deeper understanding of front-end development, responsive design, and project-based learning. I've learned how to take ideas from concept to completion while improving my problem-solving and debugging skills along the way.

@@ -22,6 +22,6 @@ A game that was created in collaboration with Jalil, Kierian and Johnathan.
 Former president Barack Obama helps generate you a secure password!
 
 ## 🔗 Links
-GitHub Repository: final-project-portfolio
+GitHub Repository: (https://github.com/JgeroaldThe3rd/finalproject)
 Live Site on GitHub Pages: [Your Live Site Link Here]
 
